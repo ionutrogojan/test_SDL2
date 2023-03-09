@@ -37,3 +37,5 @@ cargo vcpkg build
 ```sh
 cargo run
 ```
+
+Refer to the original repo for further guidance [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2)
